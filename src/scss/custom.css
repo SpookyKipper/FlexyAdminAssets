@@ -1,0 +1,14 @@
+::selection {
+    background-color: #cce2ff;
+    color: rgba(0,0,0,.87);
+}
+::moz-selection {
+    background-color: #cce2ff;
+    color: rgba(0,0,0,.87);
+}
+.sidebar-nav ul .sidebar-item.selected>.sidebar-link {
+  background-color: #5A4FCF;
+}
+.btn-primary{
+  background-color: #5A4FCF;
+}
